@@ -1,0 +1,48 @@
+.navbar{
+    background-color: black;
+    padding-left: 50px;
+}
+
+.navbar-nav .nav-item a{
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 20px;
+}  
+
+.form-inline{
+    padding-right: 100px;
+}
+
+
+
+
+
+.mid-nav{
+    padding-top: 1px;
+}
+
+.row {
+    margin-left: -8px;
+    margin-right: -8px;
+    background-color: black;
+}
+
+.b-header-logo {
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-bottom: 20px;
+}
+
+.b-primary-nav{
+    padding-top: 14px;
+    padding-left: 90px;
+}
+
+
+
+
+
+.form-inline-1{
+    padding-left: 650px;
+}
